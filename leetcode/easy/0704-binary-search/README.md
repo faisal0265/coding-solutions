@@ -42,9 +42,9 @@ Explanation: 2 does not exist in nums so return -1
 ## Solution
 
 **Language:** C  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 9.9 MB (beats 64.84%)  
-**Submitted:** 2026-11-26T17:27:12.452Z  
+**Runtime:** 0 ms  
+**Memory:** 8.4 MB  
+**Submitted:** 2026-11-26T17:27:21.653Z  
 
 ```c
 
